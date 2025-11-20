@@ -3,9 +3,9 @@
 1. Нарисовать ёлку
 2. Число Фибоначчи
 
-Вывод первой задачи:
-<img width="552" height="594" alt="image" src="https://github.com/user-attachments/assets/c8aaaf36-d4b8-440f-8ea6-44ba2d7163f7" />
-Вывод второй задачи:
+# Вывод первой задачи:
+<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/c8aaaf36-d4b8-440f-8ea6-44ba2d7163f7" />
+# Вывод второй задачи:
 Силсилаи Фибоначчи:
 Фибоначчи(0) = 0
 Фибоначчи(1) = 1
